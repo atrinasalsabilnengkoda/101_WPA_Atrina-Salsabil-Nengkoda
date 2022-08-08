@@ -38,4 +38,10 @@ h5,h3{
     justify-content: center;
     padding-bottom: 10px;
 }
+
+p,form{
+	padding:.5em 1em;
+	font-size:16px;
+	text-align:justify;
+}
 </style>

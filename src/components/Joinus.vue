@@ -20,7 +20,7 @@
             </form>
     </div>
     <br><br><br>
-    
+</template>    
 <style scoped>
 h5,h3{
     background-color: #9BC7D3;
@@ -33,5 +33,11 @@ h5,h3{
 	text-align:center;
     justify-content: center;
     padding-bottom: 10px;
+}
+
+p,form{
+	padding:.5em 1em;
+	font-size:16px;
+	text-align:justify;
 }
 </style>

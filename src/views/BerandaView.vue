@@ -13,8 +13,7 @@ import Visimisi from '../components/Visimisi.vue';
 import Service from '../components/Service.vue';
 import Ourwork from '../components/Ourwork.vue';
 import Testimoni from '../components/Testimoni.vue';
-import Joinus from '../components/Joinus.vue'
-import Contact from '../components/Contact.vue'
+import Joinus from '../components/Joinus.vue';
 
 export default{
   components: {
@@ -22,8 +21,8 @@ export default{
     Visimisi,
     Service,
     Ourwork,
+    Testimoni,
     Joinus,
-    Contact,
   },
 }
 </script>

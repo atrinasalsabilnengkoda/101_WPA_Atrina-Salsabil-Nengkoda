@@ -22,7 +22,7 @@
                 </div>
                 <div class="col">
                 <h3>Open Jastip Tiket Konser</h3>
-                <p>JinibbokShop juga menyediakan jasa jastip tiket konser yang ada di Indonesia, konsumen hanya perlu membayar biaya tiket dan biaya jastip tanpa harus repot menukarkan tiket karena semua akan diurus oleh JinibbokShop sehingga konsumen akan langsung mendapatkan tiket jadi. Dijamin aman dan lebih murah dari calo.
+                <p>JinibbokShop juga menyediakan jasa jastip tiket konser yang ada di Indonesia, konsumen hanya perlu membayar biaya tiket dan biaya jastip tanpa harus repot menukarkan tiket karena semua akan diurus oleh JinibbokShop sehingga konsumen akan langsung mendapatkan tiket jadi. Dijamin aman dan lebih murah dari calo.</p>
                 </div>
             </div>
         </div>
@@ -34,6 +34,13 @@
 h5,h3{
     background-color: #9BC7D3;
 }
+
+p,form{
+	padding:.5em 1em;
+	font-size:16px;
+	text-align:justify;
+}
+
 .bagian{
     width: 100%;
     padding: 10px;

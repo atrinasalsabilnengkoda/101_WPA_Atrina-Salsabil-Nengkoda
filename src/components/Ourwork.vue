@@ -5,28 +5,28 @@
             <div class="row">
                 <div class="col">
                 <h5>Album Kpop</h5>
-                <img src="album.webp" style="width: 50%;">
+                <img src="../assets/album.webp" style="width: 50%;">
                 </div>
                 <div class="col">
                 <h5>Lightstick</h5>
-                <img src="lightstick.jpg" style="width: 50%;">
+                <img src="../assets/lightstick.jpg" style="width: 50%;">
                 </div>
                 <div class="col">
                 <h5>Plushie</h5>
-                <img src="plushie.jpg" style="width: 50%;">
+                <img src="../assets/plushie.jpg" style="width: 50%;">
                 </div>
                 <div class="w-100"><br><br></div>
                 <div class="col">
                 <h5>Photocard</h5>
-                <img src="photocard.jpg" style="width: 50%;">
+                <img src="../assets/photocard.jpg" style="width: 50%;">
                 </div>
                 <div class="col">
                 <h5>Gantungan Kunci</h5>
-                <img src="ganci.jpg" style="width: 50%;">
+                <img src="../assets/ganci.jpg" style="width: 50%;">
                 </div>
                 <div class="col">
                 <h5>Binder</h5>
-                <img src="binder.jpg" style="width: 50%;">
+                <img src="../assets/binder.jpg" style="width: 50%;">
                 </div>
             </div>
             <br>
@@ -38,6 +38,12 @@
 <style scoped>
 h5,h3{
     background-color: #9BC7D3;
+}
+
+p,form{
+	padding:.5em 1em;
+	font-size:16px;
+	text-align:justify;
 }
 
 .data{
